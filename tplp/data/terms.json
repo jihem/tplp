@@ -1,0 +1,1252 @@
+[
+  {
+    "entity": "a",
+    "classes": {
+      "I": "a!"
+    },
+    "index": 1
+  },
+  {
+    "entity": "akesi",
+    "classes": {
+      "AJ": "tomo tawa akesi mi li wawa.",
+      "N": "akesi li lon poka mi."
+    },
+    "index": 2
+  },
+  {
+    "entity": "ala",
+    "classes": {
+      "AJ": "jan ale ala li pona.",
+      "NAJ": "moku suwi ala li lon insa poki.",
+      "AV": "soweli li moku ala.",
+      "N": "ala li pakala."
+    },
+    "index": 3
+  },
+  {
+    "entity": "alasa",
+    "classes": {
+      "AJ": "soweli alasa li tawa wawa.",
+      "N": "alasa li ijo ike tawa mi.",
+      "TV": "mama mije mi li alasa e kala."
+    },
+    "index": 4
+  },
+  {
+    "entity": "ale",
+    "classes": {
+      "AJ": "kasi ale li kama suli.",
+      "NAJ": "tenpo suno ale la ona li awen lon telo suli.",
+      "AV": "suno li suno lon tenpo ale.",
+      "N": "ale li lon."
+    },
+    "index": 5
+  },
+  {
+    "entity": "anpa",
+    "classes": {
+      "AJ": "jan anpa li pona.",
+      "AV": "ona li tawa anpa.",
+      "N": "anpa li jaki.",
+      "IV": "jan li anpa lon sinpin pi jan sewi.",
+      "TV": "jan utala li anpa e akesi seli."
+    },
+    "index": 6
+  },
+  {
+    "entity": "ante",
+    "classes": {
+      "AJ": "meli mi en jan ante li kama lon tomo lipu.",
+      "N": "ante li pona.",
+      "TV": "jan sona li ante e ko ni."
+    },
+    "index": 7
+  },
+  {
+    "entity": "anu",
+    "classes": {
+      "C": "ona anu jan ante li moku e kili. sina pu anu seme?"
+    },
+    "index": 8
+  },
+  {
+    "entity": "awen",
+    "classes": {
+      "AJ": "tomo awen li jo e mani.",
+      "N": "awen mi li pona.",
+      "IV": "ona li awen.",
+      "TV": "mije li awen e kasi.",
+      "AV": "jan lili li awen kute e kalama musi."
+    },
+    "index": 9
+  },
+  {
+    "entity": "e",
+    "classes": {
+      "PTC": "mi moku e kili. mi kute e waso."
+    },
+    "index": 10
+  },
+  {
+    "entity": "en",
+    "classes": {
+      "C": "jan lili en mama ona li toki. meli en mije en tonsi li sama."
+    },
+    "index": 11
+  },
+  {
+    "entity": "epiku",
+    "classes": {
+      "AJ": "nasin epiku pi jan Ekule li pana e wawa tawa ona.",
+      "AV": "jan pi ma tomo mi li utala epiku e seli kepeken telo pi lupa telo ni."
+    },
+    "index": 12
+  },
+  {
+    "entity": "esun",
+    "classes": {
+      "AJ": "jan esun li wile e mani mute.",
+      "N": "esun li open.",
+      "TV": "jan lili li esun e moku suwi."
+    },
+    "index": 13
+  },
+  {
+    "entity": "ijo",
+    "classes": {
+      "AJ": "jo ijo mute li ike e jan.",
+      "AV": "ona li lukin ijo e pali ona.",
+      "N": "ijo ni li nasa.",
+      "TV": "jan sona li ijo e toki ona."
+    },
+    "index": 14
+  },
+  {
+    "entity": "ike",
+    "classes": {
+      "AJ": "jan ike li utala e mi mute.",
+      "AV": "one li pali ike e ko.",
+      "N": "ike li lon.",
+      "IV": "akesi ni li ike.",
+      "TV": "pipi li ike e kasi mi."
+    },
+    "index": 15
+  },
+  {
+    "entity": "ilo",
+    "classes": {
+      "AJ": "jan ilo li pali mute.",
+      "N": "tomo lipu li jo e ilo nanpa."
+    },
+    "index": 16
+  },
+  {
+    "entity": "insa",
+    "classes": {
+      "AJ": "kalama lili insa li lawa e mi mute.",
+      "N": "moku li lon insa mi."
+    },
+    "index": 17
+  },
+  {
+    "entity": "jaki",
+    "classes": {
+      "AJ": "mi moku ala e telo jaki.",
+      "AV": "ona li moku jaki.",
+      "N": "o weka e jaki tan len sina.",
+      "TV": "jan ike li jaki e ma ona."
+    },
+    "index": 18
+  },
+  {
+    "entity": "jan",
+    "classes": {
+      "AJ": "selo jan ni li jo e sitelen.",
+      "AV": "meli li toki jan tawa jan lili.",
+      "N": "jan pi pona lukin li pali.",
+      "TV": "ona li jan e kiwen."
+    },
+    "index": 19
+  },
+  {
+    "entity": "jasima",
+    "classes": {
+      "AJ": "sitelen pi lipu jasima li pona lukin.",
+      "AV": "jan utala tu li awen e lupa li tawa jasima.",
+      "N": "jan pona mi la meli jasima ona li olin e mi mute.",
+      "TV": "supa pi tomo moku li jasima e suno pi tomo lupa."
+    },
+    "index": 20
+  },
+  {
+    "entity": "jelo",
+    "classes": {
+      "AJ": "suno li jelo.",
+      "N": "jelo li kule."
+    },
+    "index": 21
+  },
+  {
+    "entity": "jo",
+    "classes": {
+      "AJ": "tomo ni li tomo jo.",
+      "N": "jan utala li awen e jo mi.",
+      "TV": "jan ni li jo e lipu mute."
+    },
+    "index": 22
+  },
+  {
+    "entity": "kala",
+    "classes": {
+      "AJ": "mi tawa lon telo kala.",
+      "N": "mama mi li moku e kala lete."
+    },
+    "index": 23
+  },
+  {
+    "entity": "kalama",
+    "classes": {
+      "AJ": "soweli kalama li kama.",
+      "N": "o kute e kalama musi.",
+      "IV": "soweli li kalama.",
+      "TV": "meli sama mi li kalama e poki suli."
+    },
+    "index": 24
+  },
+  {
+    "entity": "kama",
+    "classes": {
+      "AJ": "tenpo kama la mi lape.",
+      "N": "ma tomo ni li jo ala e kama musi.",
+      "IV": "mi kama.",
+      "TV": "mi kama e pakala.",
+      "AV": "mi kama sona e toki pona."
+    },
+    "index": 25
+  },
+  {
+    "entity": "kasi",
+    "classes": {
+      "AJ": "jan lili li musi lon ma kasi.",
+      "N": "kasi li suli.",
+      "IV": "ni li kasi.",
+      "TV": "mije li kasi e ma ni."
+    },
+    "index": 26
+  },
+  {
+    "entity": "ken",
+    "classes": {
+      "AJ": "sina sona e nasin ken anu seme ?",
+      "N": "jan lawa li jo e ken.",
+      "IV": "ona li ken.",
+      "TV": "jan lawa li ken ala e ni: jan li moli e jan.",
+      "AV": "sina mute li ken moku e kili ni."
+    },
+    "index": 27
+  },
+  {
+    "entity": "kepeken",
+    "classes": {
+      "PRP": "mi sitelen kepeken toki pona.",
+      "N": "kepeken ni li ike.",
+      "TV": "sina kepeken e ilo moku."
+    },
+    "index": 28
+  },
+  {
+    "entity": "kijetesantakalu",
+    "classes": {
+      "N": "kijetesantakalu li moku e pipi e kili."
+    },
+    "index": 29
+  },
+  {
+    "entity": "kili",
+    "classes": {
+      "AJ": "jan lili li pali e telo kili.",
+      "AV": "ona li pali kili.",
+      "N": "mi mute li moku e kili."
+    },
+    "index": 30
+  },
+  {
+    "entity": "kin",
+    "classes": {
+      "AJ": "mi kin a!",
+      "AV": "kin la ona mute li pona."
+    },
+    "index": 31
+  },
+  {
+    "entity": "kipisi",
+    "classes": {
+      "N": "jan lili li pana sama e kisipi pan tawa ona.",
+      "TV": "jan pali li kipisi e kasi suli."
+    },
+    "index": 32
+  },
+  {
+    "entity": "kiwen",
+    "classes": {
+      "AJ": "ona li pali e seli kepeken ilo kiwen.",
+      "AV": "meli li pona kiwen e tomo ona.",
+      "N": "kiwen li seli.",
+      "TV": "lete li kiwen e telo."
+    },
+    "index": 33
+  },
+  {
+    "entity": "ko",
+    "classes": {
+      "N": "o pali e ko kepeken telo.",
+      "TV": "mije wawa li ko e kiwen suli."
+    },
+    "index": 34
+  },
+  {
+    "entity": "kokosila",
+    "classes": {
+      "AJ": "jan kokosila li nasa.",
+      "TV": "o kokosila ala."
+    },
+    "index": 35
+  },
+  {
+    "entity": "kon",
+    "classes": {
+      "AJ": "ilo pi tawa kon li kalama.",
+      "AV": "waso li tawa kon.",
+      "N": "kon wawa li tawa e tomo tawa telo.",
+      "IV": "mi kon.",
+      "TV": "mi kon e ko walo."
+    },
+    "index": 36
+  },
+  {
+    "entity": "ku",
+    "classes": {
+      "AJ": "sitelen ku li pana e sona.",
+      "N": "ku li pana e pona tawa mi.",
+      "IV": "mi ku.",
+      "TV": "mi ku e toki mi."
+    },
+    "index": 37
+  },
+  {
+    "entity": "kule",
+    "classes": {
+      "AJ": "len kule li pona tawa mi.",
+      "N": "kule ni li suno.",
+      "TV": "jan lili li kule e sitelen mi."
+    },
+    "index": 38
+  },
+  {
+    "entity": "kulupu",
+    "classes": {
+      "AJ": "ma kasi kulupu li lon poka pi tomo ni.",
+      "N": "kulupu pi toki pona li wawa.",
+      "TV": "jan lawa li kulupu e jan utala."
+    },
+    "index": 39
+  },
+  {
+    "entity": "kute",
+    "classes": {
+      "AJ": "ilo kute li wawa e kute.",
+      "N": "kute pi meli ni li pona.",
+      "TV": "jan lili li kute e mama ona."
+    },
+    "index": 40
+  },
+  {
+    "entity": "la",
+    "classes": {
+      "PTC": "open la ala li lon. ken la tenpo pimeja li kama. tenpo suno ni la jan pona mi li kama."
+    },
+    "index": 41
+  },
+  {
+    "entity": ",la",
+    "classes": {
+      "PTC": "open la ala li lon. ken la tenpo pimeja li kama. tenpo suno ni la jan pona mi li kama."
+    },
+    "index": 41
+  },
+  {
+    "entity": "lanpan",
+    "classes": {
+      "AJ": "mani lanpan li pona e jan ala.",
+      "N": "lanpan li ike a!",
+      "TV": "jan lawa li lanpan e ijo tan jan pali."
+    },
+    "index": 42
+  },
+  {
+    "entity": "lape",
+    "classes": {
+      "AJ": "jan lili li tawa tomo lape ona.",
+      "AV": "jan pali ni li pali lape.",
+      "N": "lape li pana e pona tawa sijelo mi.",
+      "IV": "meli mi li lape.",
+      "TV": "jan ike li lape e jan esun."
+    },
+    "index": 43
+  },
+  {
+    "entity": "laso",
+    "classes": {
+      "AJ": "len noka laso sina li jaki.",
+      "N": "laso li kule."
+    },
+    "index": 44
+  },
+  {
+    "entity": "lawa",
+    "classes": {
+      "AJ": "jan lawa li toki e ijo suli.",
+      "AV": "ona li pilin lawa e ike.",
+      "N": "lawa mi li jo ala e linja lawa.",
+      "TV": "meli li lawa e mije ona."
+    },
+    "index": 45
+  },
+  {
+    "entity": "leko",
+    "classes": {
+      "AJ": "tomo mi li leko.",
+      "N": "mama mije li pana e leko pi jan lili mute ona tawa poki."
+    },
+    "index": 46
+  },
+  {
+    "entity": "len",
+    "classes": {
+      "AJ": "tenpo mute la meli li jo e poki len.",
+      "N": "len ala la mi pilin lete.",
+      "TV": "meli li len e pan seli."
+    },
+    "index": 47
+  },
+  {
+    "entity": "lete",
+    "classes": {
+      "AJ": "mi seli e moku soweli lete.",
+      "AV": "jan pi ma tomo li toki lete.",
+      "N": "suno li weka e lete.",
+      "TV": "telo sin li lete e sijelo mi."
+    },
+    "index": 48
+  },
+  {
+    "entity": "li",
+    "classes": {
+      "PTC": "ona li kute e waso. ona li kama jo e len noka li tawa weka."
+    },
+    "index": 49
+  },
+  {
+    "entity": "lili",
+    "classes": {
+      "AJ": "jan lili li musi.",
+      "AV": "mije mi li moku lili.",
+      "N": "tenpo ale la jan li ken ala jo e tenpo pi jan lili.",
+      "TV": "jan alasa li lili e linja."
+    },
+    "index": 50
+  },
+  {
+    "entity": "linja",
+    "classes": {
+      "AJ": "tenpo ni la tomo tawa linja li kama.",
+      "N": "linja pi ilo toki li pakala."
+    },
+    "index": 51
+  },
+  {
+    "entity": "lipu",
+    "classes": {
+      "AJ": "ma tomo mi li jo e tomo lipu.",
+      "N": "mi kama sona tan lipu."
+    },
+    "index": 52
+  },
+  {
+    "entity": "loje",
+    "classes": {
+      "AJ": "mi pana e telo loje mi.",
+      "N": "meli li kule e len ona kepeken loje walo."
+    },
+    "index": 53
+  },
+  {
+    "entity": "lon",
+    "classes": {
+      "PRP": "sina lon seme?",
+      "AJ": "toki lon li wawa.",
+      "N": "ken la kon sewi li pali e lon.",
+      "IV": "mi pilin la mi lon.",
+      "TV": "meli li lon e jan lili."
+    },
+    "index": 54
+  },
+  {
+    "entity": "luka",
+    "classes": {
+      "AJ": "mi wile e ijo luka la mi wile e mani ala.",
+      "NAJ": "wan, tu, tu wan, tu tu, luka!",
+      "N": "sijelo mi li jo e luka tu.",
+      "TV": "o luka e mi."
+    },
+    "index": 55
+  },
+  {
+    "entity": "lukin",
+    "classes": {
+      "AJ": "ma Kanse li pona lukin.",
+      "AV": "mi lawa lukin e jan tu ni.",
+      "N": "nena ni li pana e lukin epiku.",
+      "TV": "mije li lukin wawa e meli.",
+      "AV": "mi lukin jo e tomo tawa."
+    },
+    "index": 56
+  },
+  {
+    "entity": "lupa",
+    "classes": {
+      "AJ": "len lupa li seli lili.",
+      "N": "lupa tomo mi li awen open.",
+      "TV": "jan ike li lupa e sinpin tomo."
+    },
+    "index": 57
+  },
+  {
+    "entity": "ma",
+    "classes": {
+      "AJ": "mi mute li moku e kili ma.",
+      "N": "mi lon ma Inli."
+    },
+    "index": 58
+  },
+  {
+    "entity": "mama",
+    "classes": {
+      "AJ": "mi tawa ma mama mi.",
+      "N": "mama mi li toki wawa.",
+      "TV": "tenpo mute la meli li mama tawa jan ante."
+    },
+    "index": 59
+  },
+  {
+    "entity": "mani",
+    "classes": {
+      "AJ": "nasin mani li ike.",
+      "AV": "tenpo kama lili la ona li moli mani.",
+      "N": "mani li lawa e ale."
+    },
+    "index": 60
+  },
+  {
+    "entity": "meli",
+    "classes": {
+      "AJ": "mama meli mi li pali e moku.",
+      "N": "meli mute li wile ala kute e jan lawa."
+    },
+    "index": 61
+  },
+  {
+    "entity": "meso",
+    "classes": {
+      "AJ": "jan utala la ma ni li meso.",
+      "AV": "jan sona li toki e ni: jan lili li pali meso.",
+      "N": "jan sona li pali e meso ale."
+    },
+    "index": 62
+  },
+  {
+    "entity": "mi",
+    "classes": {
+      "PAJ": "ijo mi li lon tomo mi.",
+      "PP": "mi alasa e kala.",
+      "RP": "mi telo e mi."
+    },
+    "index": 63
+  },
+  {
+    "entity": "mije",
+    "classes": {
+      "AJ": "mama mije mi li pali e moku.",
+      "N": "mije ike li nasa."
+    },
+    "index": 64
+  },
+  {
+    "entity": "misikeke",
+    "classes": {
+      "AJ": "ilo misikeke ni li ken kisipi.",
+      "N": "open ale pi tenpo suno la mi moku e misikeke mi."
+    },
+    "index": 65
+  },
+  {
+    "entity": "moku",
+    "classes": {
+      "AJ": "mi telo e ilo moku.",
+      "N": "moku ni li suwi."
+    },
+    "index": 66
+  },
+  {
+    "entity": "moli",
+    "classes": {
+      "AJ": "mi seli e sijelo pi soweli moli.",
+      "AV": "jan utala li utala moli.",
+      "N": "jan sona li utala e moli.",
+      "IV": "mije li kama moli.",
+      "TV": "jan utala li moli e akesi seli."
+    },
+    "index": 67
+  },
+  {
+    "entity": "monsi",
+    "classes": {
+      "AJ": "mi esun e supa monsi luka wan tan tomo mi.",
+      "N": "o awen lon monsi mi."
+    },
+    "index": 68
+  },
+  {
+    "entity": "monsuta",
+    "classes": {
+      "AJ": "toki monsuta li pona ala e jan lili.",
+      "N": "jan tan sitelen tawa ni li moli e monsuta mute.",
+      "TV": "pimeja li monsuta e jan lili."
+    },
+    "index": 69
+  },
+  {
+    "entity": "mu",
+    "classes": {
+      "N": "mi kute e mu.",
+      "IV": "soweli li mu.",
+      "TV": "soweli li mu e ni: mi wile moku.",
+      "onomatop\\u00E9e": "mu!"
+    },
+    "index": 70
+  },
+  {
+    "entity": "mun",
+    "classes": {
+      "AJ": "tenpo mun pini la mi pali.",
+      "N": "tenpo pimeja la mun mute li suno."
+    },
+    "index": 71
+  },
+  {
+    "entity": "musi",
+    "classes": {
+      "AJ": "o kute e kalama musi.",
+      "AV": "meli mi li toki musi kepeken ilo toki.",
+      "N": "musi ni li nasa.",
+      "IV": "jan lili li musi.",
+      "TV": "mama tu li musi e jan lili ona."
+    },
+    "index": 72
+  },
+  {
+    "entity": "mute",
+    "classes": {
+      "AJ": "nasin li jo e kiwen mute.",
+      "NAJ": "... luka luka luka tu tu, mute!",
+      "AV": "ona li moku mute.",
+      "N": "jan utala li wawa pi mute pona.",
+      "TV": "ma kasi mi li mute e kili."
+    },
+    "index": 73
+  },
+  {
+    "entity": "n",
+    "classes": {
+      "I": "n!"
+    },
+    "index": 74
+  },
+  {
+    "entity": "namako",
+    "classes": {
+      "AJ": "sike namako pi tomo tawa mi li pakala.",
+      "N": "mi pana e namako mute tawa moku ni."
+    },
+    "index": 75
+  },
+  {
+    "entity": "nanpa",
+    "classes": {
+      "AJ": "mi pali e nasin pi pali nanpa.",
+      "NAJ": "meli mi li lon e jan lili ona nanpa tu.",
+      "N": "jan lili li kama sona e nanpa.",
+      "TV": "jan esun li nanpa e mani ona."
+    },
+    "index": 76
+  },
+  {
+    "entity": "nasa",
+    "classes": {
+      "AJ": "jan nasa li ken ike.",
+      "AV": "ona li tawa nasa.",
+      "N": "tenpo ni la o toki ala e nasa.",
+      "TV": "kalama ni li nasa e mi."
+    },
+    "index": 77
+  },
+  {
+    "entity": "nasin",
+    "classes": {
+      "AJ": "ona mute li pana e len nasin ona tawa meli ni.",
+      "N": "kepeken nasin seme?"
+    },
+    "index": 78
+  },
+  {
+    "entity": "nena",
+    "classes": {
+      "AJ": "ona li jo e tomo tawa nena.",
+      "N": "jan utala li pakala e nena sinpin ona."
+    },
+    "index": 79
+  },
+  {
+    "entity": "ni",
+    "classes": {
+      "DAJ": "tomo ni li tomo mi.",
+      "DP": "ni li musi."
+    },
+    "index": 80
+  },
+  {
+    "entity": "nimi",
+    "classes": {
+      "N": "toki pona li jo e nimi ale mute luka tu.",
+      "TV": "mi nimi e soweli mi kepeken nanpa."
+    },
+    "index": 81
+  },
+  {
+    "entity": "noka",
+    "classes": {
+      "AJ": "len noka mi li jaki.",
+      "AV": "mi tawa noka.",
+      "N": "noka tomo li wawa."
+    },
+    "index": 82
+  },
+  {
+    "entity": "o",
+    "classes": {
+      "PTC": "o kama. mi o telo e len.",
+      "I": "o!"
+    },
+    "index": 83
+  },
+  {
+    "entity": "oko",
+    "classes": {
+      "N": "sinpin mi li jo e oko tu."
+    },
+    "index": 84
+  },
+  {
+    "entity": "olin",
+    "classes": {
+      "AJ": "jan olin li wile ala jo e ale.",
+      "N": "olin li suli.",
+      "TV": "mama mute li olin e jan lili ona."
+    },
+    "index": 85
+  },
+  {
+    "entity": "ona",
+    "classes": {
+      "PAJ": "ilo tenpo mi li pakala.",
+      "PP": "ona li lape.",
+      "RP": "ona li nimi e ona."
+    },
+    "index": 86
+  },
+  {
+    "entity": "open",
+    "classes": {
+      "AJ": "musi open li pana e wawa.",
+      "N": "ona li tawa e open pi tenpo sona.",
+      "TV": "mije li open e lupa pi tomo telo.",
+      "AV": "tenpo suno kama la ona mute li open pali."
+    },
+    "index": 87
+  },
+  {
+    "entity": "pakala",
+    "classes": {
+      "AJ": "mi moku e kili pakala.",
+      "AV": "ona li pali pakala.",
+      "N": "mi kama e pakala.",
+      "IV": "lipu sina li pakala.",
+      "TV": "sina pakala e tomo tawa mi.",
+      "I": "pakala!"
+    },
+    "index": 88
+  },
+  {
+    "entity": "pali",
+    "classes": {
+      "AJ": "jan pali li lape.",
+      "AV": "ona li pana pali e jan sin.",
+      "N": "pali ni li pona.",
+      "IV": "ilo tenpo suli li pali.",
+      "TV": "jan pona tu li pali e moku."
+    },
+    "index": 89
+  },
+  {
+    "entity": "palisa",
+    "classes": {
+      "AJ": "kasi ni li palisa.",
+      "N": "ona li pali e palisa suli.",
+      "TV": "ona li palisa e soweli ike."
+    },
+    "index": 90
+  },
+  {
+    "entity": "pan",
+    "classes": {
+      "N": "mi esun e pan."
+    },
+    "index": 91
+  },
+  {
+    "entity": "pana",
+    "classes": {
+      "AJ": "jan pana li kama jan pona mi.",
+      "N": "pana sina li lili.",
+      "TV": "jan esun li pana e ijo pakala tan tomo esun."
+    },
+    "index": 92
+  },
+  {
+    "entity": "pi",
+    "classes": {
+      "PTC": "mi tawa lon tomo pi telo nasa."
+    },
+    "index": 93
+  },
+  {
+    "entity": "pilin",
+    "classes": {
+      "AJ": "jan pilin li ken toki tawa kon.",
+      "N": "jan li jo e pilin.",
+      "IV": "mi pilin la mi lon.",
+      "TV": "jan sona li pilin e ni: suno li kama moli."
+    },
+    "index": 94
+  },
+  {
+    "entity": "pimeja",
+    "classes": {
+      "AJ": "mi jo e len pimeja mute.",
+      "N": "pimeja li kama.",
+      "TV": "ko kasi ni li pijema e telo."
+    },
+    "index": 95
+  },
+  {
+    "entity": "pini",
+    "classes": {
+      "AJ": "pali pini li pana e mani mute.",
+      "N": "pini li lon poka pi open sin.",
+      "TV": "mama meli sina li pini e seli."
+    },
+    "index": 96
+  },
+  {
+    "entity": "pipi",
+    "classes": {
+      "N": "o lukin e ni: pipi li moku e kili."
+    },
+    "index": 97
+  },
+  {
+    "entity": "poka",
+    "classes": {
+      "AJ": "tomo poka li tomo lipu.",
+      "N": "mi lon poka sina."
+    },
+    "index": 98
+  },
+  {
+    "entity": "poki",
+    "classes": {
+      "N": "poki telo li jo ala e telo.",
+      "TV": "mi poki e ilo tan tomo pali."
+    },
+    "index": 99
+  },
+  {
+    "entity": "pona",
+    "classes": {
+      "AJ": "moku pona li jo e soweli moli.",
+      "AV": "ona li toki pona.",
+      "N": "pona li wawa.",
+      "TV": "jan poka li pona e ilo pi sitelen tawa."
+    },
+    "index": 100
+  },
+  {
+    "entity": "pu",
+    "classes": {
+      "AJ": "sitelen pu li pana e sona.",
+      "N": "pu li pana e pona tawa mi.",
+      "IV": "mi pu.",
+      "TV": "mi pu e toki mi."
+    },
+    "index": 101
+  },
+  {
+    "entity": "sama",
+    "classes": {
+      "PRP": "mi alasa e kala sama akesi.",
+      "AJ": "meli sama li lape.",
+      "AV": "jan lili li musi sama.",
+      "N": "jan mani li olin ala e sama.",
+      "TV": "jan kasi li sama e kasi."
+    },
+    "index": 102
+  },
+  {
+    "entity": "seli",
+    "classes": {
+      "AJ": "mi wile e soweli moli seli.",
+      "AV": "jan pi ma ni li unpa seli.",
+      "N": "tomo moku li jo e seli wan.",
+      "TV": "o seli e telo. o pana e kasi tawa insa ona."
+    },
+    "index": 103
+  },
+  {
+    "entity": "selo",
+    "classes": {
+      "N": "selo mi li loje.",
+      "TV": "tomo ni li selo e soweli."
+    },
+    "index": 104
+  },
+  {
+    "entity": "seme",
+    "classes": {
+      "part.int.": "jan seme li pali e moku? sina wile e moku suwi anu seme?"
+    },
+    "index": 105
+  },
+  {
+    "entity": "sewi",
+    "classes": {
+      "AJ": "nasin sewi li lawa e mi.",
+      "AV": "mama mute li toki sewi.",
+      "N": "sewi poki li jo e lupa.",
+      "IV": "waso li sewi.",
+      "TV": "mije li sewi e meli ona."
+    },
+    "index": 106
+  },
+  {
+    "entity": "sijelo",
+    "classes": {
+      "AJ": "telo sijelo li loje.",
+      "AV": "sina pali sijelo.",
+      "N": "sijelo mi li pona lukin.",
+      "TV": "mama mute li sijelo e jan lili ona."
+    },
+    "index": 107
+  },
+  {
+    "entity": "sike",
+    "classes": {
+      "AJ": "pini pi tenpo sike la ona li pana e mani.",
+      "AV": "jan pi ma tomo mi li seli sike e soweli walo.",
+      "N": "sike tu li pona.",
+      "TV": "ona li sike ala sike?"
+    },
+    "index": 108
+  },
+  {
+    "entity": "sin",
+    "classes": {
+      "AJ": "telo sin li pona.",
+      "AV": "sina wile sin e telo anu seme?",
+      "N": "jan sona li pana e sin.",
+      "TV": "jan pali li sin e nasin."
+    },
+    "index": 109
+  },
+  {
+    "entity": "sina",
+    "classes": {
+      "PAJ": "sitelen sina li jo e kule mute.",
+      "PP": "sina wile ala wile lape?",
+      "RP": "sina awen e sina."
+    },
+    "index": 110
+  },
+  {
+    "entity": "sinpin",
+    "classes": {
+      "AJ": "kule pi linja sinpin li pimeja.",
+      "N": "sinpin mi li jo e oko tu."
+    },
+    "index": 111
+  },
+  {
+    "entity": "sitelen",
+    "classes": {
+      "AJ": "toki sitelen li lawa e ale.",
+      "AV": "ona li toki sitelen.",
+      "N": "mi lukin e sitelen.",
+      "TV": "jan lili li sitelen e soweli."
+    },
+    "index": 112
+  },
+  {
+    "entity": "soko",
+    "classes": {
+      "N": "ma pi kasi suli li jo e soko mute."
+    },
+    "index": 113
+  },
+  {
+    "entity": "sona",
+    "classes": {
+      "AJ": "jan sona mute li pona.",
+      "N": "sona li wan e ale.",
+      "TV": "mi sona e nimi meli mute.",
+      "AV": "jan esun ni li sona pali e kiwen."
+    },
+    "index": 114
+  },
+  {
+    "entity": "soweli",
+    "classes": {
+      "AJ": "jan ni li wile ala e moku soweli.",
+      "N": "soweli suli li alasa e soweli lili."
+    },
+    "index": 115
+  },
+  {
+    "entity": "suli",
+    "classes": {
+      "AJ": "jan pi suli mute li jo e nena lawa.",
+      "AV": "jan lili li tawa suli.",
+      "N": "mi sona ala e suli pi supa moka ni.",
+      "TV": "sina suli e linja pi sitelen mi."
+    },
+    "index": 116
+  },
+  {
+    "entity": "suno",
+    "classes": {
+      "AJ": "kule ni li suno.",
+      "AV": "ona li toki suno.",
+      "N": "suno li weka e pimeja.",
+      "TV": "seli li suno e tomo."
+    },
+    "index": 117
+  },
+  {
+    "entity": "supa",
+    "classes": {
+      "AJ": "tenpo pini la mi moku e pan supa tu.",
+      "N": "tomo mi li jo e lape supa tu."
+    },
+    "index": 118
+  },
+  {
+    "entity": "suwi",
+    "classes": {
+      "AJ": "jan lili sina li suwi.",
+      "N": "suwi li pona tawa mi.",
+      "TV": "mama meli mi li suwi e telo moku."
+    },
+    "index": 119
+  },
+  {
+    "entity": "tan",
+    "classes": {
+      "PRP": "mi pana e ijo tan tomo mi.",
+      "AJ": "tenpo ni la pali tan ona li nasa.",
+      "N": "sina sona ala sona e tan?",
+      "IV": "ike sijelo li tan pipi pi lili mute."
+    },
+    "index": 120
+  },
+  {
+    "entity": "taso",
+    "classes": {
+      "C": "mi wile lape. taso pali mi li pini ala.",
+      "AJ": "mi taso li pali.",
+      "AV": "mi pali taso."
+    },
+    "index": 121
+  },
+  {
+    "entity": "tawa",
+    "classes": {
+      "PRP": "ona li pona tawa mi.",
+      "AJ": "mi lukin e tomo tawa.",
+      "AV": "ona li lape tawa.",
+      "N": "tawa ni li jo e wawa mute.",
+      "IV": "mi tawa ma tomo.",
+      "TV": "jan pali li tawa e kiwen."
+    },
+    "index": 122
+  },
+  {
+    "entity": "telo",
+    "classes": {
+      "AJ": "akesi telo li moku e kasi.",
+      "AV": "mi toki telo.",
+      "N": "o lukin e telo suli.",
+      "TV": "mama meli mi li telo e len mi."
+    },
+    "index": 123
+  },
+  {
+    "entity": "tenpo",
+    "classes": {
+      "AJ": "ilo tenpo sina li pona.",
+      "AV": "mi toki tenpo e sona mi.",
+      "N": "tenpo li tawa wawa."
+    },
+    "index": 124
+  },
+  {
+    "entity": "toki",
+    "classes": {
+      "AJ": "o pana e nanpa sina pi ilo toki.",
+      "AV": "jan lili li nanpa toki e suwi ona.",
+      "N": "mi kama sona e toki Elena.",
+      "IV": "tenpo moku la mama li toki.",
+      "TV": "jan seme li toki e ni?"
+    },
+    "index": 125
+  },
+  {
+    "entity": "tomo",
+    "classes": {
+      "AJ": "nimi pi ma tomo mi li ma Paki.",
+      "AV": "mama li lawa tomo e ijo pi jan lili.",
+      "N": "o tawa tomo mi."
+    },
+    "index": 126
+  },
+  {
+    "entity": "tonsi",
+    "classes": {
+      "AV": "mi wile e len tonsi.",
+      "N": "meli en mije en tonsi li wawa sama."
+    },
+    "index": 127
+  },
+  {
+    "entity": "tu",
+    "classes": {
+      "NAJ": "meli tu li kama.",
+      "N": "tu meli li kama.",
+      "TV": "ona li tu e pan."
+    },
+    "index": 128
+  },
+  {
+    "entity": "unpa",
+    "classes": {
+      "AJ": "jan unpa ona li musi.",
+      "AV": "musi tawa ni li tawa unpa e mi mute.",
+      "N": "mije lili li jo e palisa unpa lili.",
+      "TV": "tenpo pimeja la mama mi li unpa."
+    },
+    "index": 129
+  },
+  {
+    "entity": "uta",
+    "classes": {
+      "AJ": "palisa uta sina li laso.",
+      "AV": "mi pilin uta e moku.",
+      "N": "o open ala e uta sina.",
+      "TV": "jan lili li uta e mama ona."
+    },
+    "index": 130
+  },
+  {
+    "entity": "utala",
+    "classes": {
+      "AJ": "utala toki li pana e ala.",
+      "AV": "toki utala li ike tawa jan pona.",
+      "N": "mi sona ala e utala pi jan ni.",
+      "TV": "jan ike li utala e ona."
+    },
+    "index": 131
+  },
+  {
+    "entity": "walo",
+    "classes": {
+      "AJ": "jan walo en jan ante li sama.",
+      "N": "walo li suno mute.",
+      "TV": "telo li walo e selo mi."
+    },
+    "index": 132
+  },
+  {
+    "entity": "wan",
+    "classes": {
+      "AJ": "kulupu wan li wawa.",
+      "NAJ": "mi li nanpa wan.",
+      "N": "mi wile e ni: wan.",
+      "TV": "jan lawa li wan e jan ale."
+    },
+    "index": 133
+  },
+  {
+    "entity": "waso",
+    "classes": {
+      "AJ": "tomo waso li lon poka tomo.",
+      "N": "waso mute li ken ala tawa lon kon."
+    },
+    "index": 134
+  },
+  {
+    "entity": "wawa",
+    "classes": {
+      "AJ": "jan Etan li jo e wile wawa.",
+      "AV": "jan lili li tawa wawa.",
+      "N": "suno li pana e wawa tawa kasi.",
+      "TV": "jan esun ni li wawa e ma tomo."
+    },
+    "index": 135
+  },
+  {
+    "entity": "weka",
+    "classes": {
+      "AJ": "jan weka li kama.",
+      "N": "o tawa weka.",
+      "TV": "o weka e len sina."
+    },
+    "index": 136
+  },
+  {
+    "entity": "wile",
+    "classes": {
+      "N": "jan ni li jo ala e wile.",
+      "TV": "meli lili li wile e len.",
+      "AV": "jan lawa li wile jo e mani ale."
+    },
+    "index": 137
+  }
+]
